@@ -1,5 +1,13 @@
-## Airbnb Clone - API REST
+# Airbnb Clone - API REST
 
-# Clonning project 
+## Clonning the project 
 
- npm start
+git clone https://github.com/designfischer/Airbnb-Clone-API.git
+
+## Starting the server
+
+npm start
+
+### Routes
+
+
