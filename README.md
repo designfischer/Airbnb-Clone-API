@@ -1,2 +1,5 @@
-# airbnb-clone-api
- Airbnb Clone Application - API REST
+## Airbnb Clone - API REST
+
+# Clonning project 
+
+ npm start
